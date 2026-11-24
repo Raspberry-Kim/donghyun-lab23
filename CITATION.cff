@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 title: "Donghyunzam (동현잠): a single-player pencil-sketch submarine combat laboratory, with the number of submarines, the starting stage, the paper colour and the starting bomb stock set through the esoteric language Donghyun-lang"
 type: software
+doi: "10.5281/zenodo.24501338"
 version: "0.01"
 date-released: "2026-11-24"
 authors:
