@@ -1,9 +1,13 @@
 # 동현잠 v0.01
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24501338.svg)](https://doi.org/10.5281/zenodo.24501338)
+
 동현랭으로 출전 조건을 정하는 **1인용 가로 화면 잠수함 게임**이다. 거친 미색 종이 위에 연필로 그린 잠수함을 몰아 어뢰·기뢰·대함미사일로 일곱 바다의 보스를 물리친다. 부제는 ‘연필로 그린 잠수함 전투’.
 동현 시리즈의 스물네 번째 작은 실험이다. [동현촙](https://github.com/Raspberry-Kim/donghyun-lab22)과 같은 틀에서 나온 형제이고, 물속의 움직임과 무기, 수면 위의 군함, 팔다리로 직접 덮치는 보스는 새로 지었다.
 
 바로 하기: https://raspberry-kim.github.io/donghyun-lab23/
+
+모든 판을 묶는 DOI는 [`10.5281/zenodo.24501338`](https://doi.org/10.5281/zenodo.24501338)이다. 이번 판은 [v0.01 릴리스](https://github.com/Raspberry-Kim/donghyun-lab23/releases/tag/v0.01)이며 Zenodo 보관본은 [records/24501339](https://zenodo.org/records/24501339)(DOI `10.5281/zenodo.24501339`)이다.
 
 ## 규칙
 
