@@ -1,4 +1,4 @@
-# 동현잠 v0.01
+# 동현잠 v0.02
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24501338.svg)](https://doi.org/10.5281/zenodo.24501338)
 
@@ -7,7 +7,7 @@
 
 바로 하기: https://raspberry-kim.github.io/donghyun-lab23/
 
-모든 판을 묶는 DOI는 [`10.5281/zenodo.24501338`](https://doi.org/10.5281/zenodo.24501338)이다. 이번 판은 [v0.01 릴리스](https://github.com/Raspberry-Kim/donghyun-lab23/releases/tag/v0.01)이며 Zenodo 보관본은 [records/24501339](https://zenodo.org/records/24501339)(DOI `10.5281/zenodo.24501339`)이다.
+모든 판을 묶는 DOI는 [`10.5281/zenodo.24501338`](https://doi.org/10.5281/zenodo.24501338)이다. 이번 판은 [v0.02 릴리스](https://github.com/Raspberry-Kim/donghyun-lab23/releases/tag/v0.02)이다. 판마다의 Zenodo 보관본은 위 DOI 쪽의 판 목록에서 고른다.
 
 ## 규칙
 
