@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Donghyunzam (동현잠): a single-player pencil-sketch submarine combat laboratory, with the number of submarines, the starting stage, the paper colour and the starting bomb stock set through the esoteric language Donghyun-lang"
+type: software
+version: "0.01"
+date-released: "2026-11-24"
+authors:
+  - family-names: Kim
+    given-names: Dong Hyun
+    orcid: "https://orcid.org/0000-0001-9883-0229"
+    affiliation: "Inha University College of Medicine"
+license: MIT
+abstract: >-
+  Donghyunzam is a browser-based, noncommercial toy: a side-view submarine
+  steered with the directional keys through seven horizontally scrolling
+  undersea stages. It shares the frame of its sibling Donghyunchop (seven
+  long stages, a 400x225 view, pencil rendering, instrument panel, save
+  and load) and replaces the flight model with water drag: speed builds
+  slowly and the boat coasts a long way. The primary weapon is the torpedo
+  (two tubes; it sinks briefly, then accelerates), and the bomb stock (up
+  to ten) is spent on either a mine dropped from the keel or an anti-ship
+  missile launched from the deck that breaks the surface and homes on
+  frigates, destroyers, Aegis ships and aircraft. The top of the screen is
+  a rippling waterline; warships drop depth charges fused to the depth the
+  submarine had when they were released. Each stage has a mid-boss and a
+  boss - crabs, octopuses, squids, frogs, a newt, a nautilus and a kraken -
+  which, besides shooting, strike directly with arms, tongues and claws
+  that are redrawn every step as quick pencil strokes after a short
+  telegraph. The number of submarines (1-9), the starting stage (1-7), the
+  paper colour (rough cream or sketchbook white) and the starting bomb
+  stock (0-10) are chosen through a program written in the esoteric
+  programming language Donghyun-lang. Input is keyboard, an on-screen
+  directional pad with buttons, and gamepad, with fullscreen. A run can be
+  saved to three browser slots or to a .dhsave file and loaded again.
+  The one image file is the title on the briefing screen, written by hand
+  by the author; every vessel, creature, terrain and the paper grain is
+  drawn by code as wobbly graphite strokes when the page opens, in
+  greyscale on paper, using the pencil engine of Donghyuns. Clearing all
+  seven stages is celebrated with falling petals and a short fanfare
+  synthesised in the browser from the trio melody of Elgar's Pomp and
+  Circumstance March No. 1 (1901, public domain); no recording is used.
+  No graphics, sound, text, stage data or code of any other game is used.
+  The MIT license applies to the Donghyunzam code and documentation; the
+  page fonts are under the SIL Open Font License, and the handwritten
+  title remains the work of its writer. See LICENSE and CREDITS.md.
+keywords:
+  - submarine game
+  - side-scrolling
+  - procedural drawing
+  - esoteric programming language
+  - JavaScript
+references:
+  - type: software
+    title: "Donghyun-lang (동현랭): a Korean esoteric programming language with a browser playground"
+    authors:
+      - family-names: Kim
+        given-names: Dong Hyun
+        orcid: "https://orcid.org/0000-0001-9883-0229"
+        affiliation: "Inha University College of Medicine"
+    version: "1.55"
+    license: MIT
+    repository-code: "https://github.com/Raspberry-Kim/donghyun-lang"
