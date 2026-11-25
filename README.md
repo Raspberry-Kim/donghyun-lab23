@@ -87,4 +87,4 @@
 
 ## 시리즈 연결
 
-[동현랭](https://raspberry-kim.github.io/donghyun-lang/)과 스물세 실험실을 상단 메뉴로 오간다. 데스크톱 메뉴는 12열×2줄, 모바일은 두 열이다.
+[동현랭](https://raspberry-kim.github.io/donghyun-lang/)과 스물네 실험실을 상단 메뉴로 오간다. 데스크톱 메뉴는 동현랭이 두 줄 높이이고 실험실은 12열×2줄, 모바일은 두 열이다.
